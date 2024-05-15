@@ -1,4 +1,4 @@
-# p500
+# p500 | Linked List
 simple search engine using linked list in C programming language.
 
 # Simple Search Engine
